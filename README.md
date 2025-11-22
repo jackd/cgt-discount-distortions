@@ -336,7 +336,7 @@ That was really long. Thanks for sticking with me - it was a much deeper rabbit 
 General after tax levered returns
 
 $$
-R(\lambda, t; c, y, r) = \lambda [(1 - (1 - \Delta)t)c + (1 - \Delta)y] - (1 - \lambda)(1 - t)r
+R(\lambda, t; c, y, r) = \lambda [(1 - (1 - \Delta)t)c + (1 - t)y] - (1 - \lambda)(1 - t)r
 $$
 
 Investment housing returns:
