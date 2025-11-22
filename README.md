@@ -1,6 +1,6 @@
 # Investors Aren't Ruining Australia's Housing Market: The Tax System Is
 
-_A Graphical Walkthrough of the Australian Housing Market Distortions Caused by the CGT Discount_
+_A Graphical Tutorial on the Absurd Distortions Caused by the CGT Discount_
 
 I really don't think you understand how ridiculous Australia's capital gains tax (CGT) discount is. I say that as someone who's railed against it in the past yet who, until setting out to write this article, still didn't understand quite how ridiculous it is. I thought it was just a regressive tax break that disproportionately benefitted richer households. It is that - but it's also so much worse.
 
@@ -368,6 +368,7 @@ Market equilibrium:
 $$
 y_h^* = y_h \text{ such that } R_h(\lambda_m, t_m) = R_s(t_m)
 $$
+
 which after substitution yields
 
 $$
